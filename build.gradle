@@ -6,7 +6,7 @@ plugins {
 
 group 'org.example'
 version '1.0-SNAPSHOT'
-mainClassName = 'com.kodilla.blackjack.BlackJack'
+mainClassName = 'com.kodilla.blackjack.Blackjack'
 
 javafx {
     version = "14"
